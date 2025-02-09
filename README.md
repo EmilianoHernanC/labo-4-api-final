@@ -12,10 +12,10 @@ El flujo del combate se basa en seleccionar un Pokemon y sus movimientos para lu
 
 ## Archivos Modificados
   Los archivos modificados son:
-  -pokemon_move.dart: Gestion de los movimientos de los pokemon
-  -habilidades_pokemon.dart: Llamada a la API del proyecto 1 para obtener las habilidades, tambien se llama a la API de pokemon para obtener los sprites y nombres de los pokemon.
-  -moves_provider.dart:Gestion de los movimientos disponibles
-  -movimientos_combate_screen.dart:Pantalla de combate, se muestran los tipos, las cartas de los movimientos y el enfrentamiento
+  - pokemon_move.dart: Gestion de los movimientos de los pokemon
+  - habilidades_pokemon.dart: Llamada a la API del proyecto 1 para obtener las habilidades, tambien se llama a la API de pokemon para obtener los sprites y nombres de los pokemon.
+  - moves_provider.dart:Gestion de los movimientos disponibles
+  - movimientos_combate_screen.dart:Pantalla de combate, se muestran los tipos, las cartas de los movimientos y el enfrentamiento
 
   ## Caracteristicas
   En el Menu de movimientos de Combate, se presenta una pantalla con un carrusel de diferentes tipos de Pokemon. Al seleccionar uno de estos tipos, se realiza un llamado a la API para obtener los movimientos disponibles para ese tipo. Estos movimientos se presentan en tarjetas y al seleccion un movimiento se inicia un combate que enfrenta a:
