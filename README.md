@@ -19,7 +19,8 @@ El flujo del combate se basa en seleccionar un Pokemon y sus movimientos para lu
 
   ## Caracteristicas
   En el Menu de movimientos de Combate, se presenta una pantalla con un carrusel de diferentes tipos de Pokemon. Al seleccionar uno de estos tipos, se realiza un llamado a la API para obtener los movimientos disponibles para ese tipo. Estos movimientos se presentan en tarjetas y al seleccion un movimiento se inicia un combate que enfrenta a:
-  ![image](https://github.com/user-attachments/assets/3d3078cb-08ae-4225-8472-e8bff08fcb66)
+  ![image](https://github.com/user-attachments/assets/fdf0f197-78b2-4c8d-ac1c-fa3facdcb783)
+
 
   Un pokemon que puede aprender ese movimiento:
   ![image](https://github.com/user-attachments/assets/c5d4cd47-dee9-4c6b-9808-b1fb5ec667f6)
